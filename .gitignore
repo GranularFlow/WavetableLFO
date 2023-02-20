@@ -1,0 +1,32 @@
+Builds
+cmake-build-debug
+.idea/
+# VS files
+/WavetableLFO_SharedCode.vcxproj
+/WavetableLFO_StandalonePlugin.vcxproj.filters
+/WavetableLFO_StandalonePlugin.vcxproj.user
+/WavetableLFO_VST3.vcxproj.filters
+/WavetableLFO_VST3.vcxproj
+/resources.rc
+/WavetableLFO_StandalonePlugin.vcxproj
+/WavetableLFO_SharedCode.vcxproj.filters
+/x64/Debug/Shared Code/
+/x64/Debug/Standalone Plugin/WavetableLFO.exe.recipe
+/x64/Debug/Standalone Plugin/*.tlog
+/x64/Debug/Standalone Plugin/WavetableLFO.ilk
+/x64/Debug/Standalone Plugin/WavetableLFO.pdb
+/x64/Debug/Standalone Plugin/WavetableLFO_StandalonePlugin.vcxproj.FileListAbsolute.txt
+/x64/Debug/Standalone Plugin/include_juce_audio_plugin_client_Standalone.obj
+/x64/Debug/Standalone Plugin/resources.res
+/.vs/
+/x64/Debug/VST3/*.tlog/
+/x64/Debug/VST3/WavetableLFO.exp
+/x64/Debug/VST3/WavetableLFO.lib
+/x64/Debug/VST3/WavetableLFO.pdb
+/x64/Debug/VST3/WavetableLFO.vst3.recipe
+/x64/Debug/VST3/WavetableLFO_VST3.log
+/x64/Debug/VST3/WavetableLFO.ilk
+/x64/Debug/VST3/WavetableLFO_VST3.vcxproj.FileListAbsolute.txt
+/x64/Debug/VST3/include_juce_audio_plugin_client_VST3.obj
+/x64/Debug/VST3/resources.res
+/JuceLibraryCode/
